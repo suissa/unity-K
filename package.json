@@ -1,0 +1,26 @@
+{
+  "name": "unity-k",
+  "version": "1.0.0",
+  "description": "Unidade de Kelvin pra cálculos de temperatura absoluta",
+  "main": "unity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/unity-k.git"
+  },
+  "keywords": [
+    "unidade",
+    "cálculo",
+    "anos",
+    "webschool",
+    "suissa"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/unity-k/issues"
+  },
+  "homepage": "https://github.com/suissa/unity-k#readme"
+}
